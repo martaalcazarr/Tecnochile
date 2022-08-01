@@ -28,3 +28,4 @@ document.getElementById("submit").addEventListener("click", function (event) {
   document.getElementById("nombre").value = "";
   document.getElementById("apellido").value = "";
 });
+//comentario inocuo para subir a github, ULises.
