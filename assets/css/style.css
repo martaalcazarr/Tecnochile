@@ -14,7 +14,7 @@ a {
 }
 
 h1 {
-  color: hsl(0, 0%, 28%);
+  color: hsl(0, 39%, 15%);
   font-size: 30px;
   font-weight: bold;
   font-family: monospace;
@@ -51,7 +51,7 @@ h3 {
   font-family: 'Roboto Mono', monospace;
   text-align: center;
   list-style-type: none;
-  color: #39207f;
+  color: #2c039d;
 }
 
 .header nav ul {
@@ -218,3 +218,4 @@ footer .integrantes {
 .ocultar {
   display: none;
 }
+
